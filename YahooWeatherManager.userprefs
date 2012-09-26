@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="YahooWeatherManager/WeatherManager.cs">
+    <Files>
+      <File FileName="YahooWeatherManager/WeatherManager.cs" Line="13" Column="3" />
+      <File FileName="YahooWeatherManager/WeatherResult.cs" Line="175" Column="3" />
+      <File FileName="YahooWeatherManager/WeatherForecast.cs" Line="8" Column="25" />
+      <File FileName="YahooWeatherManager/WeatherCode.cs" Line="14" Column="25" />
+      <File FileName="YahooWeatherManager/WeatherControl.cs" Line="27" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
